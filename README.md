@@ -6,9 +6,7 @@
 
 <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?w=740&t=st=1670699906~exp=1670700506~hmac=e3ac45071676450f18bf974763e5a7ad79977c6112f0cd4ae5e2149dd27dee85" width="400" align="right">
 
-- 🔭 I’m currently working on **E-Shop**
-
-- 🌱 I’m currently learning **Nodejs, Expressjs**
+- 🔭 I’m currently working on **E-Shop** project on MEAN stack technology
 
 - 👨‍💻 All of my projects are available at [http://ishwarpanchariya.in/](http://ishwarpanchariya.in/)
 
