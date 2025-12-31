@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ishwar Panchariya</h1>
+%<h1 align="center">Hi 👋, I'm Ishwar Panchariya</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-panchariya&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-panchariya" /> </p>
 
 
-<img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?w=740&t=st=1670699906~exp=1670700506~hmac=e3ac45071676450f18bf974763e5a7ad79977c6112f0cd4ae5e2149dd27dee85" width="400" align="right">
+<img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-d ni 7evops-illustration_23-2149387396.jpg?w=740&t=st=1670699906~exp=1670700506~hmac=e3ac45071676450f18bf974763e5a7ad79977c6112f0cd4ae5e2149dd27dee85" width="400" align="right">
 
 - 🔭 I’m currently working 000on **Developer Resources** project using Angular 21 and Firebase
 
-- 👨‍💻 Demo URL: https://developer-resources-weld.vercel.app/login
+- 👨‍💻 Demo URL: https://developer-resources-weld.vercel.app
 
 - 💬 Ask me about **Angular**
 
