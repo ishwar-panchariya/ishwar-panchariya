@@ -6,9 +6,9 @@
 
 <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?w=740&t=st=1670699906~exp=1670700506~hmac=e3ac45071676450f18bf974763e5a7ad79977c6112f0cd4ae5e2149dd27dee85" width="400" align="right">
 
-- 🔭 I’m currently working on **Service Booking Tracker Web Application** project on MEAN stack technology
+- 🔭 I’m currently working 000on **Developer Resources** project using Angular 21 and Firebase
 
-- 👨‍💻 Demo URL: https://sba-frontend-blue.vercel.app
+- 👨‍💻 Demo URL: https://developer-resources-weld.vercel.app/login
 
 - 💬 Ask me about **Angular**
 
