@@ -9,6 +9,7 @@
 - 🔭 I’m currently working 000on **Developer Resources** project using Angular 21 and Firebase
 
 - 👨‍💻 Demo URL: https://developer-resources-weld.vercel.app
+- 👨‍💻 LIVE URL: https://dailydevresource.com/
 
 - 💬 Ask me about **Angular**
 
